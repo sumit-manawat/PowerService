@@ -1,0 +1,15 @@
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\obj\Debug\PowerPositionService.UnitTest.csprojAssemblyReference.cache
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\obj\Debug\PowerPositionService.UnitTest.csproj.CoreCompileInputs.cache
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\bin\Debug\Installer.bat
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\bin\Debug\Uninstaller.bat
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\bin\Debug\PowerPositionService.UnitTest.dll.config
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\bin\Debug\PowerPositionService.UnitTest.dll
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\bin\Debug\PowerPositionService.UnitTest.pdb
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\bin\Debug\PowerPositionService.exe
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\bin\Debug\PowerService.dll
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\bin\Debug\PowerPositionService.pdb
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\bin\Debug\PowerPositionService.exe.config
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\obj\Debug\PowerPositionService.UnitTest.csproj.CopyComplete
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\obj\Debug\PowerPositionService.UnitTest.dll
+C:\Sumit2\PowerPositionService\PowerPositionService\PowerPositionService.UnitTest\obj\Debug\PowerPositionService.UnitTest.pdb
